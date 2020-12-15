@@ -1,0 +1,9 @@
+ovidiu     400
+nu     490
+nume     400
+nume2     800
+nume3     420
+n1     600
+n2     400
+n34     600
+n     500
